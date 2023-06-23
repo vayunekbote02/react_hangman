@@ -34,6 +34,7 @@ function App() {
       e.preventDefault()
       addGuessedLetter(key)
     }
+    //unnecessary comment
 
     document.addEventListener("keypress", handler);
 
